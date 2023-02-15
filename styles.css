@@ -153,6 +153,16 @@ h2 {
   background-color: #ce1126;
 }
 
+/* QUESTION 5 */
+.label {
+  color: #6102ef;
+}
+
+.label:hover {
+  color: #d702ef;
+  font-size: 200%;
+}
+
 /* QUESTION 6 */
 .margin-container {
   height: 300px;
