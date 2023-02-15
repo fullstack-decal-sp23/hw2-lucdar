@@ -35,6 +35,10 @@ h2 {
   height: 33.3%;
 }
 
+.sixvert {
+  height: 16.67%;
+}
+
 .threehoriz {
   width: 33.3%;
 }
@@ -106,15 +110,15 @@ h2 {
 /* BEGIN QUESTION 2 */
 
 .thailand-red {
-  /* TODO */
+  background-color: #B5002D;
 }
 
 .thailand-white {
-  /* TODO */
+  background-color: #fff;
 }
 
 .thailand-blue {
-  /* TODO */
+  background-color: #2E2A4C;
 }
 
 /* END QUESTION 2 */
